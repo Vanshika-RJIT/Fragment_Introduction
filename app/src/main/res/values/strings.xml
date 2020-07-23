@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment_Introduction</string>
+    <string name="blue_color_fragment">Blue Color Fragment</string>
+    <string name="green_color_fragment">Green Color Fragment</string>
+</resources>
